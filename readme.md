@@ -11,10 +11,6 @@ Refer to `cplex_instruction.md`
 
 ---
 ## Requirements
-Anaconda python
-
----
-## Requirements
 
 - IBM SPSS Modeler v18
 - Anaconda python 
