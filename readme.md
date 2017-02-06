@@ -9,8 +9,8 @@ The CPLEX Python API is a Python package named cplex that allows the Callable Li
 ---
 ## Configure CPLEX
 This extension dependent on:
- - IBM ILOG CPLEX Optimizer
- - Python
+ - IBM ILOG CPLEX Optimizer 12.7
+ - Python 2.7
 
 Refer to [cplex_instruction.md](cplex_instruction.md) for CPLEX configure.
 
@@ -36,7 +36,7 @@ LIMITATION = [
 ## Requirements
 
 - IBM SPSS Modeler v18
-- Anaconda python 
+- Anaconda python 2.7
 
 More information here: [IBM Predictive Extensions][2]
 

@@ -8,7 +8,7 @@ http://www-01.ibm.com/software/websphere/products/optimization/cplex-studio-comm
 [Visual C++ Redistributable Packages for Visual Studio 2013](https://www.microsoft.com/en-US/download/details.aspx?id=40784)
 
 ####  3. Install python.
-SPSS Modeler prefer [Anaconda python](https://www.continuum.io/downloads).
+SPSS Modeler prefer [Anaconda python (2.7)](https://www.continuum.io/downloads).
 
 ####  4. Install CPLEX python package
 Go to {CPLEX Optimization Studio install folder}\cplex\python\2.7\{os} and run "python setup.py install"
