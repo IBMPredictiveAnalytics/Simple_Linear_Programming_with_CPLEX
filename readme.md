@@ -11,7 +11,8 @@ The CPLEX Python API is a Python package named cplex that allows the Callable Li
 This extension dependent on:
  - IBM ILOG CPLEX Optimizer
  - Python
-Refer to `cplex_instruction.md` for CPLEX configure.
+
+Refer to [cplex_instruction.md](cplex_instruction.md) for CPLEX configure.
 
 ---
 ## Limitation Data
