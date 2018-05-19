@@ -18,7 +18,7 @@ Notes:
 http://www.ibm.com/support/knowledgecenter/SSSA5P_12.5.1/ilog.odms.cplex.help/CPLEX/GettingStarted/topics/set_up/Python_setup.html) for more detail information.
 
 ####  5. Run "pip install docplex"
-Ensure pip enable, and run `pip install docplecx` to install [docplex](https://pypi.python.org/pypi/docplex) package.
+Ensure pip enable, and run `pip install docplex` to install [docplex](https://pypi.python.org/pypi/docplex) package.
 
 ####  6. Download sample code 
 Download sample code from [github docplex example](https://github.com/IBMDecisionOptimization/docplex-examples).
